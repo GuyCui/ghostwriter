@@ -1,0 +1,22 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env.*
+
+# Build artifacts (if any in the future)
+build/
+dist/
+*.egg-info/
