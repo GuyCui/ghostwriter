@@ -48,6 +48,17 @@ ghostwriter/
     └── ... (其他数据文件)
 ```
 
+## 更新情况
+
+|更新日期|文件名|特征介绍|
+|----|----|----|
+|20250512|Weibo_Hu.json|基于微博用户胡锡进100条原创提取的语言特征|
+|20250513|Tiandao_DingYuanying.json|基于《天道》（《遥远的救世主》）提取的丁元英思维和语言特征|
+|20250513|Tiandao_RuiXiaodan.json|基于《天道》（《遥远的救世主》）提取的芮小丹思维和语言特征|
+|20250513|Honglou_LinDaiyu.json|基于《红楼梦》提取的林黛玉思维、性情及语言特征|
+|20250513|Renmindemingyi_QiTongwei.json|基于《人民的名义》提取的祁同伟思维、性情及语言特征|
+|20250514|Xianjianqixiazhuan_Linyueru.json|基于《仙剑奇侠传》提取的林月如思维、性情及语言特征|
+|20250515|Ribendongman_Lingboli.json|根据朋友愿望，基于互联网数据提取的绫波丽思维及语言特征|
 ---
 
 # ghostwriter (影子作家) - English Version
