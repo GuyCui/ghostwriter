@@ -59,6 +59,7 @@ ghostwriter/
 |20250513|Renmindemingyi_QiTongwei.json|基于《人民的名义》提取的祁同伟思维、性情及语言特征|
 |20250514|Xianjianqixiazhuan_Linyueru.json|基于《仙剑奇侠传》提取的林月如思维、性情及语言特征|
 |20250515|Ribendongman_Lingboli.json|根据朋友愿望，基于互联网数据提取的绫波丽思维及语言特征|
+|20250515|Tianmuhongchen_YeZinong.json|基于《天幕红尘》提取的叶子农思维和语言特征|
 ---
 
 # ghostwriter (影子作家) - English Version
