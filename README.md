@@ -61,6 +61,7 @@ ghostwriter/
 |20250515|Ribendongman_Lingboli.json|根据朋友愿望，基于互联网数据提取的绫波丽思维及语言特征|
 |20250515|Tianmuhongchen_YeZinong.json|基于《天幕红尘》提取的叶子农思维和语言特征|
 |20250515|Public_LuXun.json|基于公共数据中鲁迅的作品、信件等内容，提取的鲁迅先生的语言特征，与大众想象的鲁迅先生有偏差，可能会更接近真实的鲁迅先生。|
+|20250519|Speaker_Lei.json|基于雷布斯最近4次演讲内容，提取雷布斯演讲语言特征。|
 ---
 
 # ghostwriter (影子作家) - English Version
