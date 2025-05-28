@@ -64,6 +64,7 @@ ghostwriter/
 |20250519|Speaker_Lei.json|基于雷布斯最近4次演讲内容，提取雷布斯演讲语言特征|0.8|
 |20250519|Liangjian_LiYunlong.json|基于小说《亮剑》提取的李云龙思维和语言特征，测试新版特征框架|2.1|
 |20250522|Public_ZhangYi.json|基于史料和《大秦帝国》小说内容，提取的秦相张仪的语言特征|1.0|
+|20250528|Aiqinggongyu_LvZiqiao.json|基于《爱情公寓》提取的吕子乔思维和语言特征，偏人生导师吕小布人设|2.1|
 ---
 
 # ghostwriter (影子作家) - English Version
